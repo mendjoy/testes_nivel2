@@ -1,0 +1,17 @@
+/**
+ * In the context of object orientation, write the diferences between classes, objects, instances and interfaces:
+ *
+ * Escreva a diferença entre interfaces, instancias, objetos e classes no contexto de orientação a objeto:
+ *  
+ */
+
+ 
+
+"Interfaces: Definem quais métodos e propriedades uma classe deve possuir. Elas não possuem implementação própria e não podem ser instanciadas."
+
+"Instâncias: são cópias individuais de um objeto definido por uma classe. Podem utilizar os mesmos métodos e propriedades de uma classe pai, mas os valores atribuídos podem ser modificados."
+
+"Objetos: são instâncias específicas de uma classe, possuem propriedades e métodos próprios e podem herdar propriedades e métodos de uma classe ou de outro objeto."
+
+"Classes: Definem a estrutura e o comportamento dos objetos. Elas possuem propriedades e métodos, podem ser instanciadas, implementar interfaces e herdar métodos de outras classes."
+
